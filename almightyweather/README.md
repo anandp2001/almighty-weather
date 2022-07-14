@@ -1,4 +1,4 @@
-# Know-Your-Weather
+# almightyweather
 <h2>Preface:</h2>
 A basic weather forecast app that lets the enduser to know the primary weather conditions of a particular city.
 <br>
